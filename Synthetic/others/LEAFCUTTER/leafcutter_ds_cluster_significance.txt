@@ -1,0 +1,922 @@
+cluster	status	loglr	df	p	p.adjust	genes
+chr1:clu_1_NA	Success	0.115429335290628	1	0.630887866891762	0.706226476735959	LHY
+chr1:clu_10_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G01320
+chr1:clu_100_NA	Not enough valid samples	NA	NA	NA	NA	DOF1.1
+chr1:clu_101_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	RPS15AA
+chr1:clu_102_NA	Success	29.0290046426619	3	1.52767378432263e-12	1.09228675579068e-10	PAI1
+chr1:clu_103_NA	Not enough valid samples	NA	NA	NA	NA	AT1G07840
+chr1:clu_104_NA	Success	29.8330433097855	5	1.4247275453189e-11	8.14944155922409e-10	APX1
+chr1:clu_105_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ATRNL
+chr1:clu_106_NA	Success	20.0403842004842	2	1.97957393352458e-09	4.71798454156691e-08	A3
+chr1:clu_107_NA	Success	2.90167643261094	1	0.0159956442212182	0.0259929218594796	PDIL5-1
+chr1:clu_108_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	GATA11
+chr1:clu_109_NA	Success	11.5513512579676	1	1.53574693956601e-06	6.86286913618559e-06	AT1G08040
+chr1:clu_11_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G01448
+chr1:clu_110_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G08110
+chr1:clu_111_NA	Success	1.90081278198207	1	0.0512028504019756	0.0778936979519416	AT1G08125
+chr1:clu_112_NA	Success	2.11329086428081	1	0.03979551110236	0.0618560661699726	AT1G08125
+chr1:clu_113_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G08220
+chr1:clu_114_NA	Success	10.7898151034299	1	3.39437793451417e-06	1.22885074591273e-05	AT1G08310
+chr1:clu_115_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	BSL2
+chr1:clu_116_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	CRT3
+chr1:clu_117_NA	Not enough valid samples	NA	NA	NA	NA	CRT3
+chr1:clu_118_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ATRX
+chr1:clu_119_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ATRX
+chr1:clu_12_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G01448
+chr1:clu_120_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	JMJ16
+chr1:clu_121_NA	Success	9.53871482091063	1	1.25520596961322e-05	2.91860900251529e-05	THA1
+chr1:clu_122_NA	Success	10.4047129915784	1	5.07326582996871e-06	1.53006551104573e-05	THA1
+chr1:clu_123_NA	Success	0.192694030119128	1	0.53473365051428	0.631957950607785	THA1
+chr1:clu_124_NA	Not enough valid samples	NA	NA	NA	NA	AGD14
+chr1:clu_125_NA	Not enough valid samples	NA	NA	NA	NA	AGD14
+chr1:clu_126_NA	Success	0.321336993505625	1	0.42274416326221	0.523397535467498	AT1G08750
+chr1:clu_127_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MYOB1
+chr1:clu_128_NA	Success	6.71800817542436	1	0.000246839218954053	0.00046444747776881	CSD1
+chr1:clu_129_NA	Success	14.766022872863	1	5.49997780460081e-08	4.49545581099684e-07	SUGTL3
+chr1:clu_13_NA	Not enough valid samples	NA	NA	NA	NA	AT1G01640
+chr1:clu_130_NA	Success	13.5850157890991	1	1.86324583215226e-07	1.33961084659116e-06	SUGTL2
+chr1:clu_131_NA	Not enough valid samples	NA	NA	NA	NA	AT1G09060
+chr1:clu_132_NA	Success	6.87329563321484	1	0.000209200112239477	0.00039623332516881	MED37B
+chr1:clu_133_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	CLPR3
+chr1:clu_134_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SR30
+chr1:clu_135_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G09195
+chr1:clu_136_NA	Not enough valid samples	NA	NA	NA	NA	AT1G09195
+chr1:clu_137_NA	Not enough valid samples	NA	NA	NA	NA	IMPA4
+chr1:clu_138_NA	Success	1.78643206304139	3	0.311434120865539	0.403032391708345	ASK10
+chr1:clu_139_NA	Success	0.559468006273818	1	0.290147673340086	0.380652452180113	ASK10
+chr1:clu_14_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G01740
+chr1:clu_140_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G09932
+chr1:clu_141_NA	Not enough valid samples	NA	NA	NA	NA	AT1G09970
+chr1:clu_142_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G10040
+chr1:clu_143_NA	Not enough valid samples	NA	NA	NA	NA	BCAT1
+chr1:clu_144_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G10220
+chr1:clu_145_NA	Not enough valid samples	NA	NA	NA	NA	AT1G10340
+chr1:clu_146_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ULP1C
+chr1:clu_147_NA	Success	11.5127985495943	1	1.59858736450496e-06	7.0110263324982e-06	AT1G10586
+chr1:clu_148_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G10588
+chr1:clu_149_NA	Success	10.6039287414096	2	2.48183132101546e-05	5.25780561341053e-05	AT1G10590
+chr1:clu_15_NA	Success	13.2125264920313	1	2.73963964805189e-07	1.79464930952898e-06	AT1G01800
+chr1:clu_150_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AMSH2
+chr1:clu_151_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AMSH2
+chr1:clu_152_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AMSH2
+chr1:clu_153_NA	Success	0.0075060676201133	1	0.902484024859328	0.925126993224974	AT1G10657
+chr1:clu_154_NA	Success	0.475939834746583	1	0.329241304705397	0.422255664330689	AT1G10657
+chr1:clu_155_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G10660
+chr1:clu_156_NA	Success	10.2906718945591	1	5.7150347295321e-06	1.65101003297594e-05	ACLA-1
+chr1:clu_157_NA	Success	18.3429709442343	2	1.0808089620894e-08	1.36639935008889e-07	ACLA-1
+chr1:clu_158_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G10740
+chr1:clu_159_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	LOV1
+chr1:clu_16_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	GEN1
+chr1:clu_160_NA	Success	0.490534946534353	2	0.612298759459337	0.700182554318431	SRK2A
+chr1:clu_161_NA	Success	10.2212181018107	1	6.14519400205062e-06	1.72306420057498e-05	AT1G11120
+chr1:clu_162_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SCAMP5
+chr1:clu_163_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G11280
+chr1:clu_164_NA	Success	5.78876864168024	3	0.00897976913031572	0.0150187951536275	AT1G11360
+chr1:clu_165_NA	Success	0.193153613197495	2	0.824355332553942	0.879722481755326	CLPP6
+chr1:clu_166_NA	Success	33.9898124399404	4	6.05833983513774e-14	8.66342596424697e-12	ATGLX1
+chr1:clu_167_NA	Success	0.158716016907647	1	0.573155000856749	0.663653158886762	ATGLX1
+chr1:clu_168_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	GDCST
+chr1:clu_169_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ATSRS
+chr1:clu_17_NA	Success	2.09316828394932	1	0.0407510677731028	0.0629989480167968	AT1G01910
+chr1:clu_170_NA	Not enough valid samples	NA	NA	NA	NA	AT1G11905
+chr1:clu_171_NA	Not enough valid samples	NA	NA	NA	NA	AT1G11930
+chr1:clu_172_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G12230
+chr1:clu_173_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G12250
+chr1:clu_174_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PHR1
+chr1:clu_175_NA	Success	10.4217083817798	1	4.98402374651462e-06	1.53006551104573e-05	ARK3
+chr1:clu_176_NA	Success	7.81113190570468	1	7.73386199039687e-05	0.000153603092309271	AT1G12650
+chr1:clu_177_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G12730
+chr1:clu_178_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	CYP87A2
+chr1:clu_179_NA	Not enough valid samples	NA	NA	NA	NA	RBL6
+chr1:clu_18_NA	Success	2.06951131530047	2	0.126247461835696	0.185162944025688	AT1G01910
+chr1:clu_180_NA	Not enough valid samples	NA	NA	NA	NA	AT1G12810
+chr1:clu_181_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	GAPA2
+chr1:clu_182_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PBE1
+chr1:clu_183_NA	Not enough valid samples	NA	NA	NA	NA	ORP1D
+chr1:clu_184_NA	Not enough valid samples	NA	NA	NA	NA	AT1G13350
+chr1:clu_185_NA	Not enough valid samples	NA	NA	NA	NA	GT-1
+chr1:clu_186_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	B'THETA
+chr1:clu_187_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G13610
+chr1:clu_188_NA	Not enough valid samples	NA	NA	NA	NA	AT1G13630
+chr1:clu_189_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	QUL1
+chr1:clu_19_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G01920
+chr1:clu_190_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	GN
+chr1:clu_191_NA	Not enough valid samples	NA	NA	NA	NA	AT1G13990
+chr1:clu_192_NA	Not enough valid samples	NA	NA	NA	NA	AT1G14170
+chr1:clu_193_NA	Not enough valid samples	NA	NA	NA	NA	AT1G14180
+chr1:clu_194_NA	Success	8.28516053956826	1	4.68789369364627e-05	9.57669711702024e-05	APY3
+chr1:clu_195_NA	Not enough valid samples	NA	NA	NA	NA	APY3
+chr1:clu_196_NA	Not enough valid samples	NA	NA	NA	NA	AT1G14270
+chr1:clu_197_NA	Not enough valid samples	NA	NA	NA	NA	IQD28
+chr1:clu_198_NA	Success	3.37304965954127	1	0.00939528674571358	0.0156223954027563	UBC1
+chr1:clu_199_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ZHD4
+chr1:clu_2_NA	Success	0.114580403745151	1	0.63214677637904	0.706226476735959	LHY
+chr1:clu_20_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	CSN7
+chr1:clu_200_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G14480
+chr1:clu_201_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MIOX1
+chr1:clu_202_NA	Not enough valid samples	NA	NA	NA	NA	PUX7
+chr1:clu_203_NA	Success	12.6862661821079	1	4.72599679141223e-07	2.59929823527673e-06	PUX7
+chr1:clu_204_NA	Success	10.9711062996402	1	2.80984757875366e-06	1.09266486320816e-05	IDD6
+chr1:clu_205_NA	Success	7.76638845833637	1	8.10870213551533e-05	0.000159937159362578	NHX8
+chr1:clu_206_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PAP3
+chr1:clu_207_NA	Not enough valid samples	NA	NA	NA	NA	KNATM
+chr1:clu_208_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G14820
+chr1:clu_209_NA	Not enough valid samples	NA	NA	NA	NA	MAP70.4
+chr1:clu_21_NA	Success	11.5012378306909	1	1.61792915365343e-06	7.0110263324982e-06	AT1G02100
+chr1:clu_210_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G14940
+chr1:clu_211_NA	Not enough valid samples	NA	NA	NA	NA	AT1G14990
+chr1:clu_212_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PSS1
+chr1:clu_213_NA	Not enough valid samples	NA	NA	NA	NA	AT1G15120
+chr1:clu_214_NA	Not enough valid samples	NA	NA	NA	NA	AT1G15180
+chr1:clu_215_NA	Success	19.1600235169141	2	4.77427590753295e-09	8.53401818471514e-08	AT1G15200
+chr1:clu_216_NA	Success	0.0755707148341145	1	0.697446945065776	0.770153769454873	SHH1
+chr1:clu_217_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SHH1
+chr1:clu_218_NA	Not enough valid samples	NA	NA	NA	NA	AT1G15350
+chr1:clu_219_NA	Not enough valid samples	NA	NA	NA	NA	AT1G15350
+chr1:clu_22_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ALG12
+chr1:clu_220_NA	Success	4.50339903515018	1	0.00268977233068692	0.00474861041096579	AT1G15400
+chr1:clu_221_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G15610
+chr1:clu_222_NA	Not enough valid samples	NA	NA	NA	NA	AT1G15790
+chr1:clu_223_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G15860
+chr1:clu_224_NA	Success	0.0520870688285413	1	0.746876867505555	0.812193095462315	MRS2-1
+chr1:clu_225_NA	Not enough valid samples	NA	NA	NA	NA	AT1G16020
+chr1:clu_226_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G16180
+chr1:clu_227_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SYP51
+chr1:clu_228_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SYP51
+chr1:clu_229_NA	Success	10.3594823044178	1	5.31866258666086e-06	1.5521811222296e-05	KDSA2
+chr1:clu_23_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ALG12
+chr1:clu_230_NA	Not enough valid samples	NA	NA	NA	NA	AT1G16560
+chr1:clu_231_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SR45
+chr1:clu_232_NA	Not enough valid samples	NA	NA	NA	NA	HAC12
+chr1:clu_233_NA	Not enough valid samples	NA	NA	NA	NA	AT1G16810
+chr1:clu_234_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G16820
+chr1:clu_235_NA	Not enough valid samples	NA	NA	NA	NA	UBC36
+chr1:clu_236_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	UBP15
+chr1:clu_237_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G17160
+chr1:clu_238_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G17200
+chr1:clu_239_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	UBC34
+chr1:clu_24_NA	Not enough valid samples	NA	NA	NA	NA	AT1G02190
+chr1:clu_240_NA	Not enough valid samples	NA	NA	NA	NA	AT1G17350
+chr1:clu_241_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G17410
+chr1:clu_242_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G17450
+chr1:clu_243_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G17450
+chr1:clu_244_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G17450
+chr1:clu_245_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G17450
+chr1:clu_246_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G17450
+chr1:clu_247_NA	Not enough valid samples	NA	NA	NA	NA	TRFL3
+chr1:clu_248_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	DRG1
+chr1:clu_249_NA	Not enough valid samples	NA	NA	NA	NA	NFYA8
+chr1:clu_25_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	CER1
+chr1:clu_250_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	STR8
+chr1:clu_251_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	GER2
+chr1:clu_252_NA	Not enough valid samples	NA	NA	NA	NA	PAPS1
+chr1:clu_253_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G18030
+chr1:clu_254_NA	Success	1.34522539184951	1	0.100951250726376	0.150375300561165	AT1G18070
+chr1:clu_255_NA	Success	0.228959231046758	1	0.498598392725761	0.599156051762889	AT1G18070
+chr1:clu_256_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	RABA6B,CML27
+chr1:clu_257_NA	Not enough valid samples	NA	NA	NA	NA	ATLP-1
+chr1:clu_258_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G18390
+chr1:clu_259_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ALMT3,AT1G18415
+chr1:clu_26_NA	Not enough valid samples	NA	NA	NA	NA	TOC33
+chr1:clu_260_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G18620
+chr1:clu_261_NA	Not enough valid samples	NA	NA	NA	NA	AT1G18660
+chr1:clu_262_NA	Not enough valid samples	NA	NA	NA	NA	AT1G18700
+chr1:clu_263_NA	Not enough valid samples	NA	NA	NA	NA	AT1G18700
+chr1:clu_264_NA	Not enough valid samples	NA	NA	NA	NA	PNSB4
+chr1:clu_265_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PNSB4
+chr1:clu_266_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	IQD30
+chr1:clu_267_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G18900
+chr1:clu_268_NA	Success	21.6920444514216	2	3.79546327508735e-10	1.08550249667498e-08	TTN10
+chr1:clu_269_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G19140
+chr1:clu_27_NA	Success	0.119950897187493	1	0.624277053032352	0.706226476735959	AT1G02470
+chr1:clu_270_NA	Not enough valid samples	NA	NA	NA	NA	RBOHE
+chr1:clu_271_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G19330
+chr1:clu_272_NA	Success	0.130941767192468	2	0.877268858732241	0.905772179052062	BZR2
+chr1:clu_273_NA	Success	24.4907632279202	3	1.31632325725053e-10	5.37812073676645e-09	AT1G19396,AT1G19394
+chr1:clu_274_NA	Not enough valid samples	NA	NA	NA	NA	AT1G19485
+chr1:clu_275_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	DHAR1
+chr1:clu_276_NA	Not enough valid samples	NA	NA	NA	NA	GAMMACA1
+chr1:clu_277_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	BBD2
+chr1:clu_278_NA	Not enough valid samples	NA	NA	NA	NA	BLH10
+chr1:clu_279_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	JAL3
+chr1:clu_28_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SAM1
+chr1:clu_280_NA	Success	1.46516762084445	3	0.402491296500945	0.502674719647469	TGD1
+chr1:clu_281_NA	Not enough valid samples	NA	NA	NA	NA	LFNR2
+chr1:clu_282_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	CAT3
+chr1:clu_283_NA	Success	0.135449757217032	1	0.602729007791465	0.692291149511482	AT1G20680
+chr1:clu_284_NA	Success	1.91335470211948	2	0.147584453327993	0.209217093142053	HMGB2
+chr1:clu_285_NA	Not enough valid samples	NA	NA	NA	NA	AT1G20880
+chr1:clu_286_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G21000
+chr1:clu_287_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G21060
+chr1:clu_288_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G21080
+chr1:clu_289_NA	Success	4.41808533865944	1	0.00295318140477161	0.00518165571634773	AT1G21320
+chr1:clu_29_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	IMPA6
+chr1:clu_290_NA	Not enough valid samples	NA	NA	NA	NA	AT1G21350
+chr1:clu_291_NA	Success	17.4290511584549	2	2.69562364430983e-08	3.03150777720257e-07	AT1G21350
+chr1:clu_292_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G21610
+chr1:clu_293_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G21610
+chr1:clu_294_NA	Not enough valid samples	NA	NA	NA	NA	NADK2
+chr1:clu_295_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SECA2
+chr1:clu_296_NA	Not enough valid samples	NA	NA	NA	NA	RFC4
+chr1:clu_297_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	RFC4
+chr1:clu_298_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G22080
+chr1:clu_299_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G22180
+chr1:clu_3_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G01080
+chr1:clu_30_NA	Success	17.578162248444	1	3.04271620247928e-09	6.69397564545441e-08	SR34
+chr1:clu_300_NA	Success	5.83844742552036	1	0.00063281058579936	0.00117521965934167	AT1G22200
+chr1:clu_301_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PAPP2C
+chr1:clu_302_NA	Not enough valid samples	NA	NA	NA	NA	GRF10
+chr1:clu_303_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G22510
+chr1:clu_304_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G22520
+chr1:clu_305_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G22660
+chr1:clu_306_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	GASA9
+chr1:clu_307_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G22700
+chr1:clu_308_NA	Success	6.59676617387993	3	0.00423623537555488	0.00721168641314699	AT1G22750
+chr1:clu_309_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G22790
+chr1:clu_31_NA	Success	0.000391563789989391	1	0.977674579924404	0.981105017046946	SR34
+chr1:clu_310_NA	Success	11.4159352748748	1	1.7680927218155e-06	7.54738087222737e-06	CYTC-1
+chr1:clu_311_NA	Success	8.24456558047046	1	4.89297622804347e-05	9.8548676142284e-05	AT1G22885
+chr1:clu_312_NA	Success	14.9056192799858	2	3.36179941556929e-07	2.0030721517767e-06	AT1G22910
+chr1:clu_313_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	FRO3
+chr1:clu_314_NA	Not enough valid samples	NA	NA	NA	NA	PIN7
+chr1:clu_315_NA	Success	16.91471212394	2	4.50851855726993e-08	4.15947195928774e-07	AT1G23110
+chr1:clu_316_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G23170
+chr1:clu_317_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MED23
+chr1:clu_318_NA	Not enough valid samples	NA	NA	NA	NA	PXG7
+chr1:clu_319_NA	Not enough valid samples	NA	NA	NA	NA	GGAT1
+chr1:clu_32_NA	Not enough valid samples	NA	NA	NA	NA	BGLU11
+chr1:clu_320_NA	Not enough valid samples	NA	NA	NA	NA	KNAT6
+chr1:clu_321_NA	Not enough valid samples	NA	NA	NA	NA	AT1G23520
+chr1:clu_322_NA	Success	1.14950751740184	2	0.316792745882613	0.408120384335258	AT1G23570
+chr1:clu_323_NA	Not enough valid samples	NA	NA	NA	NA	AT1G23600
+chr1:clu_324_NA	Success	17.20669803508	2	3.3668672374084e-08	3.33005036583776e-07	AT1G23690
+chr1:clu_325_NA	Success	10.3627086773081	1	5.30077011265102e-06	1.5521811222296e-05	AT1G23690
+chr1:clu_326_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SPDS1
+chr1:clu_327_NA	Success	12.2920000016784	2	4.5883044561031e-06	1.44203854334669e-05	RSZ21
+chr1:clu_328_NA	Success	16.6875014565358	2	5.65861570614987e-08	4.49545581099684e-07	AT1G23950
+chr1:clu_329_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G23970
+chr1:clu_33_NA	Success	0.126839882103425	1	0.614495878090651	0.700182554318431	BGLU11
+chr1:clu_330_NA	Not enough valid samples	NA	NA	NA	NA	SEP3
+chr1:clu_331_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SEP3
+chr1:clu_332_NA	Success	2.11843667426649	1	0.0395549486821058	0.0618181165195752	AT1G24300
+chr1:clu_333_NA	Success	2.40007375976393	4	0.308424982325921	0.400952477023698	AT1G24350
+chr1:clu_334_NA	Not enough valid samples	NA	NA	NA	NA	RWK1
+chr1:clu_335_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ALB3L1
+chr1:clu_336_NA	Success	10.0513856335777	1	7.33902577928625e-06	1.94348275266284e-05	THO2
+chr1:clu_337_NA	Success	0.0197093356939604	1	0.842621528640738	0.889521951215675	AT1G24735
+chr1:clu_338_NA	Success	0.195439878704207	1	0.531837326115929	0.631143050909359	AT1G25275
+chr1:clu_339_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	TULP10
+chr1:clu_34_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	BAH1
+chr1:clu_340_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	RBL10
+chr1:clu_341_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MYB116
+chr1:clu_342_NA	Success	11.6765170375371	1	1.3483066629455e-06	6.21960815487762e-06	ERF116,CPuORF54
+chr1:clu_343_NA	Not enough valid samples	NA	NA	NA	NA	AT1G25500
+chr1:clu_344_NA	Success	0.335637756947108	2	0.71488201996367	0.780367395838204	MED25
+chr1:clu_345_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	DCP5
+chr1:clu_346_NA	Success	8.29106897291807	1	4.65877393725398e-05	9.57669711702024e-05	ALA12
+chr1:clu_347_NA	Not enough valid samples	NA	NA	NA	NA	ALA12
+chr1:clu_348_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G26208
+chr1:clu_349_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	UPS5
+chr1:clu_35_NA	Success	10.5951913698637	1	4.15845962568902e-06	1.39684344221789e-05	TPK1
+chr1:clu_350_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	UPS5
+chr1:clu_351_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G26558
+chr1:clu_352_NA	Not enough valid samples	NA	NA	NA	NA	ELF5A-2
+chr1:clu_353_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G26850
+chr1:clu_354_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G26850
+chr1:clu_355_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G27110
+chr1:clu_356_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G27170
+chr1:clu_357_NA	Success	0.46760193545137	2	0.626502862606985	0.706226476735959	SPL11
+chr1:clu_358_NA	Success	0.831718452096908	2	0.435300599986147	0.534317474661107	SPL10
+chr1:clu_359_NA	Success	7.34960653972248	1	0.000126099077179774	0.000245335619547044	AT1G27385
+chr1:clu_36_NA	Success	2.07650530867249	2	0.12536756849521	0.184820229843454	AT1G02890
+chr1:clu_360_NA	Not enough valid samples	NA	NA	NA	NA	APT1
+chr1:clu_361_NA	Success	0.203677434980705	1	0.523315131267399	0.62361719809365	APT1
+chr1:clu_362_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G27570
+chr1:clu_363_NA	Not enough valid samples	NA	NA	NA	NA	AT1G27570
+chr1:clu_364_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G27752
+chr1:clu_365_NA	Success	2.32618653608613	1	0.0310106484885978	0.0501076015126495	SAT32
+chr1:clu_366_NA	Success	10.0302034742834	1	7.50340941148993e-06	1.95088644698738e-05	ATCSA-1
+chr1:clu_367_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G27921
+chr1:clu_368_NA	Success	1.13806138020811	1	0.13137995040539	0.190734344243358	AT1G28100
+chr1:clu_369_NA	Success	10.9652072712921	1	2.82717482088824e-06	1.09266486320816e-05	AT1G28100
+chr1:clu_37_NA	Not enough valid samples	NA	NA	NA	NA	GSTF4
+chr1:clu_370_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ATJ1
+chr1:clu_371_NA	Success	10.6802946501402	1	3.80513186121644e-06	1.32715574671696e-05	DYL1
+chr1:clu_372_NA	Success	2.49325180836195	5	0.417529528149492	0.51918889152502	AT1G28395
+chr1:clu_373_NA	Not enough valid samples	NA	NA	NA	NA	AT1G28530
+chr1:clu_374_NA	Success	18.8622372426555	2	6.43034758974061e-09	1.08181141803871e-07	SRD2
+chr1:clu_375_NA	Success	16.810651570918	2	5.00295717714621e-08	4.47139297707443e-07	AT1G28570
+chr1:clu_376_NA	Success	0.544873435759598	2	0.579915175219004	0.668773145615464	AT1G28630
+chr1:clu_377_NA	Success	0.357053212288477	1	0.398083939860393	0.500138530377844	AT1G28630
+chr1:clu_378_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G28660
+chr1:clu_379_NA	Success	10.4029931669046	1	5.08238543878827e-06	1.53006551104573e-05	AT1G28710
+chr1:clu_38_NA	Success	7.1612436735026	1	0.000154014054521491	0.000297621754007746	GSTF4
+chr1:clu_380_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G28710
+chr1:clu_381_NA	Success	11.9763803631422	1	9.87286177485351e-07	4.95375169755807e-06	AT1G29040
+chr1:clu_382_NA	Success	4.16108593290786	1	0.00391640653908546	0.0067072168583257	AT1G29120
+chr1:clu_383_NA	Success	0.0014241056608455	1	0.957438194333732	0.967587715828436	SCAR3
+chr1:clu_384_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G29200
+chr1:clu_385_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G29220
+chr1:clu_386_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G29357
+chr1:clu_387_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ML5
+chr1:clu_388_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G29470
+chr1:clu_389_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G29560
+chr1:clu_39_NA	Success	0.644877657135787	1	0.256093048013142	0.342255195008217	AT1G02960
+chr1:clu_390_NA	Not enough valid samples	NA	NA	NA	NA	AT1G29820
+chr1:clu_391_NA	Success	8.41624701917479	1	4.08281992093519e-05	8.52325910501798e-05	AT1G29850
+chr1:clu_392_NA	Success	5.78484676357724	1	0.00067035466206017	0.00122898354711031	AT1G29850
+chr1:clu_393_NA	Success	5.10019967752751	2	0.00609552930376951	0.0103155111294561	CPuORF34,BHLH144,CPuORF35
+chr1:clu_394_NA	Success	0.213595483277572	2	0.807675037008889	0.86515003964248	RPL18AA
+chr1:clu_395_NA	Success	0.377863290253345	2	0.685324184757635	0.759700452870867	RPL18AA
+chr1:clu_396_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G30070
+chr1:clu_397_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G30130
+chr1:clu_398_NA	Success	10.5714317853432	1	4.26285723294966e-06	1.39684344221789e-05	AT1G30160
+chr1:clu_399_NA	Success	7.05130403478641	1	0.00017310360021178	0.000332265970876302	AT1G30200
+chr1:clu_4_NA	Success	4.14725671096085	2	0.0158077222087062	0.0258343345810856	RPP1A
+chr1:clu_40_NA	Not enough valid samples	NA	NA	NA	NA	AT1G02990
+chr1:clu_400_NA	Not enough valid samples	NA	NA	NA	NA	AT1G30240
+chr1:clu_401_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	CCC1
+chr1:clu_402_NA	Not enough valid samples	NA	NA	NA	NA	AT1G30470
+chr1:clu_403_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G30470
+chr1:clu_404_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G30475
+chr1:clu_405_NA	Success	8.25886956502451	1	4.81970411730557e-05	9.77613742942832e-05	NFYA7
+chr1:clu_406_NA	Not enough valid samples	NA	NA	NA	NA	RFNR2
+chr1:clu_407_NA	Not enough valid samples	NA	NA	NA	NA	RFNR2
+chr1:clu_408_NA	Success	15.1336033449901	2	2.67645272035798e-07	1.79464930952898e-06	MUR4
+chr1:clu_409_NA	Success	10.271833062907	1	5.82863304476949e-06	1.66698905080407e-05	MUR4
+chr1:clu_41_NA	Not enough valid samples	NA	NA	NA	NA	AT1G02990
+chr1:clu_410_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PATL4
+chr1:clu_411_NA	Success	23.1887465257536	2	8.49679893922334e-11	4.05014082769646e-09	JMJ18
+chr1:clu_412_NA	Not enough valid samples	NA	NA	NA	NA	AT1G30890
+chr1:clu_413_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SUF4
+chr1:clu_414_NA	Success	9.43831610391791	1	1.39450474919196e-05	3.14038077377088e-05	GOA
+chr1:clu_415_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SRX
+chr1:clu_416_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G31300
+chr1:clu_417_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MED34
+chr1:clu_418_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	FEI1
+chr1:clu_419_NA	Not enough valid samples	NA	NA	NA	NA	CCR4-4
+chr1:clu_42_NA	Not enough valid samples	NA	NA	NA	NA	BHLH7
+chr1:clu_420_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G31550
+chr1:clu_421_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G31600
+chr1:clu_422_NA	Success	9.50707210067536	1	1.29753072933529e-05	2.96875030871915e-05	AT1G31600
+chr1:clu_423_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G31830
+chr1:clu_424_NA	Not enough valid samples	NA	NA	NA	NA	AT1G31850
+chr1:clu_425_NA	Success	10.1455045446223	1	6.65124020732923e-06	1.82909105701554e-05	AT1G31870
+chr1:clu_426_NA	Not enough valid samples	NA	NA	NA	NA	XLG3
+chr1:clu_427_NA	Success	0.64678415254825	1	0.255391397407845	0.342255195008217	NSI
+chr1:clu_428_NA	Success	12.0705629353557	1	8.95277675044627e-07	4.74165583449561e-06	NSI
+chr1:clu_429_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	IWS1
+chr1:clu_43_NA	Success	0.0165532243755564	1	0.855620571323958	0.890913340415142	AT1G03070
+chr1:clu_430_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G32190
+chr1:clu_431_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	RCD1
+chr1:clu_432_NA	Not enough valid samples	NA	NA	NA	NA	TOM2B
+chr1:clu_433_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	TOM2A
+chr1:clu_434_NA	Success	7.09693724731881	4	0.00670131586062855	0.011273978447881	AT1G32410
+chr1:clu_435_NA	Success	17.2038042030375	2	3.3766244968285e-08	3.33005036583776e-07	FdC1
+chr1:clu_436_NA	Not enough valid samples	NA	NA	NA	NA	FdC1
+chr1:clu_437_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G33050
+chr1:clu_438_NA	Not enough valid samples	NA	NA	NA	NA	AT1G33050
+chr1:clu_439_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	NAC014
+chr1:clu_44_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MCCA
+chr1:clu_440_NA	Not enough valid samples	NA	NA	NA	NA	AT1G33260
+chr1:clu_441_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SAR1
+chr1:clu_442_NA	Success	6.92422272077317	1	0.000198160601089512	0.000377826212744003	AT1G33415
+chr1:clu_443_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	B3GALT8
+chr1:clu_444_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G33470
+chr1:clu_445_NA	Not enough valid samples	NA	NA	NA	NA	AT1G33700
+chr1:clu_446_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	JAL4
+chr1:clu_447_NA	Success	6.05417374575495	2	0.00234804139856657	0.00419712399993774	AT1G33970
+chr1:clu_448_NA	Success	9.76124042735552	1	9.94226974667648e-06	2.36957428962456e-05	UPF3
+chr1:clu_449_NA	Not enough valid samples	NA	NA	NA	NA	IP5P1
+chr1:clu_45_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	FZL
+chr1:clu_450_NA	Not enough valid samples	NA	NA	NA	NA	IP5P1
+chr1:clu_451_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ARF13
+chr1:clu_452_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ARF13
+chr1:clu_453_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	NAC016
+chr1:clu_454_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	STOP1
+chr1:clu_455_NA	Not enough valid samples	NA	NA	NA	NA	CYCB1-5
+chr1:clu_456_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	APRL4
+chr1:clu_457_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	GRF4
+chr1:clu_458_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G35190
+chr1:clu_459_NA	Not enough valid samples	NA	NA	NA	NA	AT1G35340
+chr1:clu_46_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G03290
+chr1:clu_460_NA	Success	10.0337910414847	1	7.47531042778487e-06	1.95088644698738e-05	AT1G35340
+chr1:clu_461_NA	Not enough valid samples	NA	NA	NA	NA	AT1G35420
+chr1:clu_462_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G35470
+chr1:clu_463_NA	Success	0.0187817063660987	1	0.846322441299774	0.889521951215675	CINV1
+chr1:clu_464_NA	Success	10.8290650332453	1	3.25826079626749e-06	1.19469562529808e-05	AT1G36070
+chr1:clu_465_NA	Success	0.160947722062588	1	0.570470772922456	0.663653158886762	ACC1
+chr1:clu_466_NA	Not enough valid samples	NA	NA	NA	NA	MCT1
+chr1:clu_467_NA	Not enough valid samples	NA	NA	NA	NA	HCS2
+chr1:clu_468_NA	Success	9.76224473187287	1	9.93182119996816e-06	2.36957428962456e-05	HCS2
+chr1:clu_469_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G42430
+chr1:clu_47_NA	Not enough valid samples	NA	NA	NA	NA	ISA2
+chr1:clu_470_NA	Success	10.0760160886995	1	7.15242174044838e-06	1.92410246811014e-05	AT1G42480
+chr1:clu_471_NA	Success	17.4069308117668	2	2.75591616109325e-08	3.03150777720257e-07	AT1G42480
+chr1:clu_472_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G42525
+chr1:clu_473_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G43020
+chr1:clu_474_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G43020
+chr1:clu_475_NA	Success	23.183354858913	5	7.64733873310753e-09	1.10020926401026e-07	ARP1
+chr1:clu_476_NA	Success	4.16109184140986	1	0.00391638106133899	0.0067072168583257	PTB3
+chr1:clu_477_NA	Success	0.841295680246787	2	0.431151526850158	0.53150576154804	UGT80B1
+chr1:clu_478_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G43650
+chr1:clu_479_NA	Success	11.0469833580131	1	2.59624445795717e-06	1.03502696627429e-05	SEU
+chr1:clu_48_NA	Not enough valid samples	NA	NA	NA	NA	BRN2
+chr1:clu_480_NA	Success	1.95285264406729	1	0.048122424841339	0.0735990026985185	ALDH3H1
+chr1:clu_481_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PUP11
+chr1:clu_482_NA	Not enough valid samples	NA	NA	NA	NA	AT1G44770
+chr1:clu_483_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G44780
+chr1:clu_484_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G44835
+chr1:clu_485_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MCM2
+chr1:clu_486_NA	Success	10.5712544056842	1	4.26364643430634e-06	1.39684344221789e-05	AT1G44940
+chr1:clu_487_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	RPT4B
+chr1:clu_488_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G45015
+chr1:clu_489_NA	Success	17.1651724988132	2	3.50962166928225e-08	3.34583932471575e-07	AT1G45248
+chr1:clu_49_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	RING1B
+chr1:clu_490_NA	Not enough valid samples	NA	NA	NA	NA	AT1G45248
+chr1:clu_491_NA	Success	16.6937414850427	2	5.62341572150531e-08	4.49545581099684e-07	ABF2
+chr1:clu_492_NA	Success	12.8153153685691	1	4.13424437980924e-07	2.41304876046009e-06	CYCA3-4
+chr1:clu_493_NA	Not enough valid samples	NA	NA	NA	NA	TULP6
+chr1:clu_494_NA	Not enough valid samples	NA	NA	NA	NA	AT1G47278
+chr1:clu_495_NA	Not enough valid samples	NA	NA	NA	NA	3BETAHSD/D1
+chr1:clu_496_NA	Success	9.20793643934167	1	1.77572621062193e-05	3.90659766336826e-05	ATTI7
+chr1:clu_497_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SEC3A
+chr1:clu_498_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	TGG4
+chr1:clu_499_NA	Not enough valid samples	NA	NA	NA	NA	E2FC
+chr1:clu_5_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	CIPK9
+chr1:clu_50_NA	Success	1.83530215142443	1	0.0553801016793546	0.0838026935465365	TPX2
+chr1:clu_500_NA	Success	2.2690272113403	1	0.0331492484631114	0.0532622756205048	LPD1
+chr1:clu_501_NA	Not enough valid samples	NA	NA	NA	NA	AT1G48360
+chr1:clu_502_NA	Not enough valid samples	NA	NA	NA	NA	AT1G48360
+chr1:clu_503_NA	Not enough valid samples	NA	NA	NA	NA	AGO1
+chr1:clu_504_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G48510
+chr1:clu_505_NA	Success	11.1804164234291	1	2.25935010650963e-06	9.30110378879344e-06	GATB
+chr1:clu_506_NA	Not enough valid samples	NA	NA	NA	NA	AT1G48540
+chr1:clu_507_NA	Success	19.1914023297393	2	4.62679085175215e-09	8.53401818471514e-08	AT1G48560
+chr1:clu_508_NA	Not enough valid samples	NA	NA	NA	NA	AT1G48590
+chr1:clu_509_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PEX3-2
+chr1:clu_51_NA	Success	3.35418971285554	2	0.034937668231849	0.055822196169323	TPX2
+chr1:clu_510_NA	Success	10.5137132871924	1	4.52755612071287e-06	1.43875672280431e-05	RPS7A
+chr1:clu_511_NA	Not enough valid samples	NA	NA	NA	NA	EMB1144
+chr1:clu_512_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G48860
+chr1:clu_513_NA	Success	0.00894340951055028	1	0.893606898399734	0.919322204828503	AT1G48980
+chr1:clu_514_NA	Success	1.14082681490612	1	0.13091222817117	0.190734344243358	AT1G48980
+chr1:clu_515_NA	Success	13.0450985154375	1	3.25834115744971e-07	2.0030721517767e-06	AT1G49050
+chr1:clu_516_NA	Success	1.53938421227173	2	0.214513155332825	0.293544317823865	WNK7
+chr1:clu_517_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ARR19
+chr1:clu_518_NA	Not enough valid samples	NA	NA	NA	NA	ELP2
+chr1:clu_519_NA	Success	0.204949973334863	1	0.522020292837144	0.62361719809365	NQR
+chr1:clu_52_NA	Success	1.49537652631369	2	0.224164185124145	0.305290271169073	TPX2
+chr1:clu_520_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G49700
+chr1:clu_521_NA	Not enough valid samples	NA	NA	NA	NA	ABF1
+chr1:clu_522_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ABF1
+chr1:clu_523_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G49870
+chr1:clu_524_NA	Success	31.0491297911216	3	2.09337053477844e-13	1.99567990982211e-11	AT1G49940
+chr1:clu_525_NA	Not enough valid samples	NA	NA	NA	NA	AT1G50000
+chr1:clu_526_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	TOR
+chr1:clu_527_NA	Success	15.0773265252899	2	2.83139387481109e-07	1.79950810710216e-06	AT1G50140
+chr1:clu_528_NA	Success	5.97430317995345	1	0.00054688271935966	0.00102227750154812	ALATS
+chr1:clu_529_NA	Not enough valid samples	NA	NA	NA	NA	NTMC2T5.1
+chr1:clu_53_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G03830
+chr1:clu_530_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	DWF5
+chr1:clu_531_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G50440
+chr1:clu_532_NA	Success	0.824020712175411	1	0.19922571345901	0.273935356006138	AT1G50570
+chr1:clu_533_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SAP2
+chr1:clu_534_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PVA14
+chr1:clu_535_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MATE
+chr1:clu_536_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G51530
+chr1:clu_537_NA	Not enough valid samples	NA	NA	NA	NA	MNS1
+chr1:clu_538_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	4CL1
+chr1:clu_539_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PP2AB1
+chr1:clu_54_NA	Not enough valid samples	NA	NA	NA	NA	PHB2
+chr1:clu_540_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PP2AB1
+chr1:clu_541_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G51745
+chr1:clu_542_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G51805
+chr1:clu_543_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G51890
+chr1:clu_544_NA	Success	2.1858603992202	1	0.0365400740719347	0.058058117692074	AT1G51980
+chr1:clu_545_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G52100
+chr1:clu_546_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G52100
+chr1:clu_547_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ATHB-15
+chr1:clu_548_NA	Success	18.4254620306001	2	9.95230125507803e-09	1.35540864712015e-07	AT1G52320
+chr1:clu_549_NA	Not enough valid samples	NA	NA	NA	NA	AT1G52370
+chr1:clu_55_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	CTN
+chr1:clu_550_NA	Success	12.0334403583584	1	9.30469591092186e-07	4.83844187367937e-06	TSA1
+chr1:clu_551_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G52470
+chr1:clu_552_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	FPG1
+chr1:clu_553_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G52510
+chr1:clu_554_NA	Success	10.5672952439421	1	4.28129983141827e-06	1.39684344221789e-05	AT1G52615
+chr1:clu_555_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G52710
+chr1:clu_556_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G52870
+chr1:clu_557_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G53040
+chr1:clu_558_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G53165
+chr1:clu_559_NA	Success	1.13280143434406	1	0.132274728873151	0.191063497261218	AT1G53190
+chr1:clu_56_NA	Not enough valid samples	NA	NA	NA	NA	B''EPSILON
+chr1:clu_560_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G53200
+chr1:clu_561_NA	Success	0.0723784008521875	1	0.703597165598377	0.773956882158215	PPC1
+chr1:clu_562_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G53380
+chr1:clu_563_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G53430
+chr1:clu_564_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G53530
+chr1:clu_565_NA	Success	5.26051813984447	1	0.0011802328311702	0.00213637082097896	MAP3KA
+chr1:clu_566_NA	Success	1.57173004310363	1	0.076231927262771	0.114148330875144	CID8
+chr1:clu_567_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MSRB1
+chr1:clu_568_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G53705
+chr1:clu_569_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G53710
+chr1:clu_57_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PRP39
+chr1:clu_570_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SRF6
+chr1:clu_571_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G53760
+chr1:clu_572_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	RPT1B
+chr1:clu_573_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	RPT1B,AT1G53785
+chr1:clu_574_NA	Not enough valid samples	NA	NA	NA	NA	AT1G53800
+chr1:clu_575_NA	Success	4.72969100211517	1	0.00210071835912618	0.00377865063339677	RAP2-12
+chr1:clu_576_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G54020
+chr1:clu_577_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	UBP1A
+chr1:clu_578_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	BRXL3
+chr1:clu_579_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ATG12A
+chr1:clu_58_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G04140
+chr1:clu_580_NA	Not enough valid samples	NA	NA	NA	NA	AT1G54217
+chr1:clu_581_NA	Not enough valid samples	NA	NA	NA	NA	AT1G54217
+chr1:clu_582_NA	Success	12.7462858154171	1	4.44089460672785e-07	2.49038403436111e-06	TIF4A-2
+chr1:clu_583_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G54310
+chr1:clu_584_NA	Success	0.661581966753829	1	0.250025012017842	0.33729789357124	TAF6B
+chr1:clu_585_NA	Success	0.11659567685011	1	0.629167518413509	0.706226476735959	ING2
+chr1:clu_586_NA	Success	2.15744841577919	1	0.0377800618107844	0.0596966722535047	AT1G54440
+chr1:clu_587_NA	Not enough valid samples	NA	NA	NA	NA	NEK1
+chr1:clu_588_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G54610
+chr1:clu_589_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G54650
+chr1:clu_59_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	RPS15A
+chr1:clu_590_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G54680
+chr1:clu_591_NA	Not enough valid samples	NA	NA	NA	NA	AT1G54680
+chr1:clu_592_NA	Not enough valid samples	NA	NA	NA	NA	AT1G54730
+chr1:clu_593_NA	Success	5.78932076821648	1	0.000667136606807422	0.00122898354711031	AT1G54790
+chr1:clu_594_NA	Not enough valid samples	NA	NA	NA	NA	AT1G54920
+chr1:clu_595_NA	Not enough valid samples	NA	NA	NA	NA	AT1G54920
+chr1:clu_596_NA	Not enough valid samples	NA	NA	NA	NA	AT1G55000
+chr1:clu_597_NA	Success	9.02571473477109	1	2.15017142906399e-05	4.62367690761128e-05	AT1G55050
+chr1:clu_598_NA	Success	0.0181033824194401	1	0.849089135251326	0.889521951215675	CWINV3
+chr1:clu_599_NA	Not enough valid samples	NA	NA	NA	NA	AT1G55160
+chr1:clu_6_NA	Success	15.5140781392882	2	1.82945390851064e-07	1.33961084659116e-06	GIF2
+chr1:clu_60_NA	Not enough valid samples	NA	NA	NA	NA	AT1G04300
+chr1:clu_600_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	HUB2
+chr1:clu_601_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	HUB2
+chr1:clu_602_NA	Not enough valid samples	NA	NA	NA	NA	HUB2
+chr1:clu_603_NA	Not enough valid samples	NA	NA	NA	NA	SCL33
+chr1:clu_604_NA	Not enough valid samples	NA	NA	NA	NA	SCL33
+chr1:clu_605_NA	Not enough valid samples	NA	NA	NA	NA	AAE18
+chr1:clu_606_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MED13
+chr1:clu_607_NA	Success	0.0156072875266773	1	0.859762524316711	0.890913340415142	AT1G55340
+chr1:clu_608_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	DEK1
+chr1:clu_609_NA	Not enough valid samples	NA	NA	NA	NA	CPN60B1
+chr1:clu_61_NA	Not enough valid samples	NA	NA	NA	NA	CRY2
+chr1:clu_610_NA	Success	9.30021946888783	1	1.61183433179446e-05	3.57352417746678e-05	ECT4
+chr1:clu_611_NA	Success	12.7690277080939	1	4.33742890334042e-07	2.48100933271072e-06	ECT4
+chr1:clu_612_NA	Success	20.405926144133	1	1.67613427481886e-10	5.99218003247741e-09	TBP2
+chr1:clu_613_NA	Not enough valid samples	NA	NA	NA	NA	AT1G55535
+chr1:clu_614_NA	Success	11.1731577520591	1	2.27649393432007e-06	9.30110378879344e-06	NUP214
+chr1:clu_615_NA	Success	18.6828547865039	2	7.69377107699481e-09	1.10020926401026e-07	SFH13
+chr1:clu_616_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	CAX5
+chr1:clu_617_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	UKL3
+chr1:clu_618_NA	Success	0.234526493457381	1	0.493423161717663	0.595438920891357	UKL3
+chr1:clu_619_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G55840
+chr1:clu_62_NA	Not enough valid samples	NA	NA	NA	NA	AT1G04430
+chr1:clu_620_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	UPL1
+chr1:clu_621_NA	Success	13.55580007121	1	1.92042114371461e-07	1.33961084659116e-06	PARN
+chr1:clu_622_NA	Not enough valid samples	NA	NA	NA	NA	NFYC2
+chr1:clu_623_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	emb1303
+chr1:clu_624_NA	Not enough valid samples	NA	NA	NA	NA	AT1G56220
+chr1:clu_625_NA	Success	13.2050259859478	1	2.76099893773689e-07	1.79464930952898e-06	AT1G56230
+chr1:clu_626_NA	Not enough valid samples	NA	NA	NA	NA	ATDI19
+chr1:clu_627_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	CRT1
+chr1:clu_628_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G56460
+chr1:clu_629_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G56700
+chr1:clu_63_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PRMT10
+chr1:clu_630_NA	Not enough valid samples	NA	NA	NA	NA	AT1G57540
+chr1:clu_631_NA	Not enough valid samples	NA	NA	NA	NA	AT1G57680
+chr1:clu_632_NA	Not enough valid samples	NA	NA	NA	NA	ORTH2
+chr1:clu_633_NA	Not enough valid samples	NA	NA	NA	NA	PUP17
+chr1:clu_634_NA	Not enough valid samples	NA	NA	NA	NA	AT1G58007
+chr1:clu_635_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G58025
+chr1:clu_636_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G58025
+chr1:clu_637_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G58110
+chr1:clu_638_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	RLP9
+chr1:clu_639_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SAB
+chr1:clu_64_NA	Not enough valid samples	NA	NA	NA	NA	AT1G04930
+chr1:clu_640_NA	Success	12.7249703169155	2	2.9758813316218e-06	1.10532735174524e-05	ZW18
+chr1:clu_641_NA	Not enough valid samples	NA	NA	NA	NA	RXW8
+chr1:clu_642_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G58590
+chr1:clu_643_NA	Success	0.54459575995449	1	0.296650411340129	0.387406473256972	AT1G58602
+chr1:clu_644_NA	Success	0.471431368525145	1	0.331542704779326	0.42330898913789	MPK2
+chr1:clu_645_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ARF1
+chr1:clu_646_NA	Success	13.0149392371995	1	3.36174245372515e-07	2.0030721517767e-06	AT1G59865
+chr1:clu_647_NA	Not enough valid samples	NA	NA	NA	NA	SNL5
+chr1:clu_648_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SNL5
+chr1:clu_649_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ARPC3
+chr1:clu_65_NA	Not enough valid samples	NA	NA	NA	NA	AT1G04945,TIC20-I
+chr1:clu_650_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G60460
+chr1:clu_651_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ABC4
+chr1:clu_652_NA	Success	0.576380144503503	1	0.282972069112136	0.372949362977286	AT1G60610
+chr1:clu_653_NA	Success	17.0357386937696	3	1.91353244423927e-07	1.33961084659116e-06	AT1G60640
+chr1:clu_654_NA	Success	11.3662604660936	2	1.15796597814225e-05	2.71457598154659e-05	AT1G60640
+chr1:clu_655_NA	Success	0.9665830764676	2	0.380380551346383	0.481366538429494	AT1G60670
+chr1:clu_656_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G60730
+chr1:clu_657_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G60730
+chr1:clu_658_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ATRPAC42
+chr1:clu_659_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PIP5K8
+chr1:clu_66_NA	Success	2.06864204727447	1	0.041948420768498	0.0645013351601636	TAF6
+chr1:clu_660_NA	Success	1.12311985872766	1	0.133939525727932	0.192496001799943	AT1G60990
+chr1:clu_661_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	EDA16
+chr1:clu_662_NA	Success	0.482123919445485	6	0.986931356165698	0.986931356165698	AT1G61150
+chr1:clu_663_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G61210
+chr1:clu_664_NA	Success	7.20444825592261	3	0.0023982498111876	0.00426024500620903	AT1G61240
+chr1:clu_665_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G61340
+chr1:clu_666_NA	Not enough valid samples	NA	NA	NA	NA	BHLH112
+chr1:clu_667_NA	Not enough valid samples	NA	NA	NA	NA	BHLH112
+chr1:clu_668_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	TPS14
+chr1:clu_669_NA	Not enough valid samples	NA	NA	NA	NA	BGLU45
+chr1:clu_67_NA	Not enough valid samples	NA	NA	NA	NA	AT1G05000
+chr1:clu_670_NA	Not enough valid samples	NA	NA	NA	NA	PLA1
+chr1:clu_671_NA	Not enough valid samples	NA	NA	NA	NA	AT1G61900
+chr1:clu_672_NA	Success	0.0927197081690565	2	0.911448936187307	0.927666888788505	AT1G61900
+chr1:clu_673_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ATG8C
+chr1:clu_674_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	APR2
+chr1:clu_675_NA	Success	0.185255955047182	1	0.542725365445545	0.637484873009886	APA2
+chr1:clu_676_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G62305
+chr1:clu_677_NA	Not enough valid samples	NA	NA	NA	NA	AT1G62610
+chr1:clu_678_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G62790
+chr1:clu_679_NA	Not enough valid samples	NA	NA	NA	NA	ASP4
+chr1:clu_68_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	GLR3.4
+chr1:clu_680_NA	Success	7.36142589557295	1	0.000124527791707822	0.000243938002934501	AT1G62880
+chr1:clu_681_NA	Success	9.85756343192678	1	8.98870323020844e-06	2.23545141203445e-05	AT1G63010
+chr1:clu_682_NA	Not enough valid samples	NA	NA	NA	NA	NRPD1
+chr1:clu_683_NA	Success	0.254949600321751	1	0.47518249460687	0.578307206202404	AT1G63110
+chr1:clu_684_NA	Success	0.184208675875411	1	0.543868213337105	0.637484873009886	TET10
+chr1:clu_685_NA	Not enough valid samples	NA	NA	NA	NA	AT1G63380
+chr1:clu_686_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G63430
+chr1:clu_687_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G63610
+chr1:clu_688_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G63640
+chr1:clu_689_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G63660
+chr1:clu_69_NA	Success	11.8510800132293	1	1.12456248748164e-06	5.45126900711437e-06	HDG2
+chr1:clu_690_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G63670
+chr1:clu_691_NA	Success	10.6455237560752	1	3.94569922875098e-06	1.35960238484672e-05	AT1G63770
+chr1:clu_692_NA	Success	0.579862595450656	1	0.281522540706146	0.372756697416471	AT1G63770
+chr1:clu_693_NA	Success	0.265914735156684	2	0.766504480599258	0.827246345099576	AT1G63770
+chr1:clu_694_NA	Success	1.80992528692911	2	0.163666364362601	0.230584138954207	AT1G63770
+chr1:clu_695_NA	Success	9.33440940546338	1	1.55504806190638e-05	3.47456051332207e-05	AT1G63830
+chr1:clu_696_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G63855
+chr1:clu_697_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G63860
+chr1:clu_698_NA	Not enough valid samples	NA	NA	NA	NA	DAL1
+chr1:clu_699_NA	Success	0.732251322986485	1	0.226215059306912	0.306623255743019	MDAR6
+chr1:clu_7_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G01240
+chr1:clu_70_NA	Success	34.3167209809716	3	8.3722136695126e-15	2.39445310948060e-12	HDG2
+chr1:clu_700_NA	Success	10.254910298505	1	5.93260863176384e-06	1.67992680067768e-05	ISPF
+chr1:clu_701_NA	Not enough valid samples	NA	NA	NA	NA	AT1G63980
+chr1:clu_702_NA	Success	1.65127069405617	2	0.191806026925708	0.266293804372585	RTNLB3
+chr1:clu_703_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G64110
+chr1:clu_704_NA	Success	0.558780287294724	2	0.571906199867763	0.663653158886762	UBC28
+chr1:clu_705_NA	Success	3.04260436203538	4	0.192874563063577	0.266483695826971	UBC28
+chr1:clu_706_NA	Not enough valid samples	NA	NA	NA	NA	AT1G64300
+chr1:clu_707_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	BHLH157
+chr1:clu_708_NA	Success	0.919516340043913	2	0.398711835406113	0.500138530377844	DSS1(I)
+chr1:clu_709_NA	Not enough valid samples	NA	NA	NA	NA	PNSB2
+chr1:clu_71_NA	Not enough valid samples	NA	NA	NA	NA	AT1G05320
+chr1:clu_710_NA	Not enough valid samples	NA	NA	NA	NA	ILA
+chr1:clu_711_NA	Success	9.8997930030744	1	8.60013019343975e-06	2.17667011975555e-05	SIGA
+chr1:clu_712_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G65070
+chr1:clu_713_NA	Success	1.91625238384722	2	0.147157419557064	0.209217093142053	AT1G65090
+chr1:clu_714_NA	Success	10.2003818739791	1	6.28047252978361e-06	1.7438981975904e-05	AT1G65150
+chr1:clu_715_NA	Success	11.0435079748155	1	2.60566229271849e-06	1.03502696627429e-05	PP2A5
+chr1:clu_716_NA	Success	4.16107543618237	1	0.00391645180188948	0.0067072168583257	GTB1
+chr1:clu_717_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G65484
+chr1:clu_718_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G65486
+chr1:clu_719_NA	Success	2.08910093644278	2	0.123798388417851	0.183452534132152	LBD6
+chr1:clu_72_NA	Not enough valid samples	NA	NA	NA	NA	AT1G05380
+chr1:clu_720_NA	Success	14.4251252846006	2	5.43560248022961e-07	2.93317416857673e-06	LSM8
+chr1:clu_721_NA	Success	10.7880436908273	2	2.06448700979169e-05	4.50720064733148e-05	LSM8
+chr1:clu_722_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G65820
+chr1:clu_723_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G65850
+chr1:clu_724_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	GAD2
+chr1:clu_725_NA	Success	4.22415387060784	1	0.00365383268944181	0.00637192773890462	AT1G66070
+chr1:clu_726_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	GLN1-2
+chr1:clu_727_NA	Not enough valid samples	NA	NA	NA	NA	GLN1-2
+chr1:clu_728_NA	Success	9.02864540623713	1	2.14356203221548e-05	4.62367690761128e-05	ATX1
+chr1:clu_729_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	BGLU21
+chr1:clu_73_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G05400
+chr1:clu_730_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G66330
+chr1:clu_731_NA	Success	10.7568961930695	1	3.51292960091731e-06	1.25587233232794e-05	WRKY67
+chr1:clu_732_NA	Success	2.52490155694704	3	0.168186429851807	0.235790779105964	SUC7
+chr1:clu_733_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G66610
+chr1:clu_734_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G66660
+chr1:clu_735_NA	Success	17.22065788087	2	3.32019283171109e-08	3.33005036583776e-07	AT1G66920
+chr1:clu_736_NA	Not enough valid samples	NA	NA	NA	NA	RBCS-1A
+chr1:clu_737_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SWEETIE
+chr1:clu_738_NA	Success	9.81583010341663	1	9.39002737018501e-06	2.29426514234343e-05	AT1G67150
+chr1:clu_739_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MIR414
+chr1:clu_74_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G05550
+chr1:clu_740_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G67210
+chr1:clu_741_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G67280
+chr1:clu_742_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G67320
+chr1:clu_743_NA	Success	0.0202323093793382	1	0.840574880117277	0.889521951215675	AT1G67325
+chr1:clu_744_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G67350
+chr1:clu_745_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G67420
+chr1:clu_746_NA	Success	9.91189138550706	1	8.49194769619179e-06	2.16847950099183e-05	RPL17B
+chr1:clu_747_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G67480
+chr1:clu_748_NA	Not enough valid samples	NA	NA	NA	NA	GCS1
+chr1:clu_749_NA	Success	0.00467033228017044	1	0.923006640379157	0.936098933150493	PUB7
+chr1:clu_75_NA	Not enough valid samples	NA	NA	NA	NA	CHX23
+chr1:clu_750_NA	Not enough valid samples	NA	NA	NA	NA	HHL1
+chr1:clu_751_NA	Not enough valid samples	NA	NA	NA	NA	HHL1
+chr1:clu_752_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G67850
+chr1:clu_753_NA	Not enough valid samples	NA	NA	NA	NA	AT1G67900
+chr1:clu_754_NA	Not enough valid samples	NA	NA	NA	NA	AT1G67950
+chr1:clu_755_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	CCOAMT
+chr1:clu_756_NA	Not enough valid samples	NA	NA	NA	NA	HPR
+chr1:clu_757_NA	Success	10.3603142452689	1	5.31404310626677e-06	1.5521811222296e-05	AT1G68080
+chr1:clu_758_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G68140
+chr1:clu_759_NA	Success	10.9168833017478	1	2.97321388683658e-06	1.10532735174524e-05	AT1G68200
+chr1:clu_76_NA	Success	23.0466014883363	3	5.41850738397396e-10	1.40881191983323e-08	AT1G05710
+chr1:clu_760_NA	Success	10.7052033803283	1	3.70753352308119e-06	1.30907973777928e-05	RTNLB14
+chr1:clu_761_NA	Success	10.9449071270538	1	2.88762591372984e-06	1.10114801510231e-05	AE7
+chr1:clu_762_NA	Not enough valid samples	NA	NA	NA	NA	AT1G68580
+chr1:clu_763_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G68590
+chr1:clu_764_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	WIT2
+chr1:clu_765_NA	Not enough valid samples	NA	NA	NA	NA	WIT2
+chr1:clu_766_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	BHLH49
+chr1:clu_767_NA	Success	11.6458859516757	1	1.39194205405449e-06	6.31897503904104e-06	RPOT1
+chr1:clu_768_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G69080
+chr1:clu_769_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SP1L2
+chr1:clu_77_NA	Not enough valid samples	NA	NA	NA	NA	AT1G05785
+chr1:clu_770_NA	Success	0.0458017389598098	1	0.762148477620049	0.825660850755053	AT1G69580
+chr1:clu_771_NA	Success	2.58539370528354	2	0.0753664016088054	0.113446267684833	AT1G69587
+chr1:clu_772_NA	Success	9.86324559915911	1	8.93540987211884e-06	2.23545141203445e-05	HO3
+chr1:clu_773_NA	Success	15.9992897823424	2	1.12615127576053e-07	8.70484499641927e-07	HEMB1
+chr1:clu_774_NA	Success	13.3204370040344	5	6.70012286488785e-05	0.000134002457297757	HIR2
+chr1:clu_775_NA	Not enough valid samples	NA	NA	NA	NA	AT1G70100
+chr1:clu_776_NA	Not enough valid samples	NA	NA	NA	NA	AT1G70100
+chr1:clu_777_NA	Not enough valid samples	NA	NA	NA	NA	ARF2-A
+chr1:clu_778_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G70570
+chr1:clu_779_NA	Success	5.61308705621593	3	0.0105636725466419	0.0174636436320207	GGAT2
+chr1:clu_78_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G05790
+chr1:clu_780_NA	Not enough valid samples	NA	NA	NA	NA	AT1G70620
+chr1:clu_781_NA	Not enough valid samples	NA	NA	NA	NA	AT1G70620
+chr1:clu_782_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G70650,UEV1B
+chr1:clu_783_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	UEV1B,AT1G70650
+chr1:clu_784_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G70740
+chr1:clu_785_NA	Success	2.14130592364333	1	0.0385041381592167	0.0605065028216262	MLP28
+chr1:clu_786_NA	Success	11.923590606832	1	1.04294489415255e-06	5.14279723668329e-06	MLP34
+chr1:clu_787_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SAG18
+chr1:clu_788_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G71240
+chr1:clu_789_NA	Success	10.4101922355835	1	5.04432074410654e-06	1.53006551104573e-05	AT1G71691
+chr1:clu_79_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G05790
+chr1:clu_790_NA	Not enough valid samples	NA	NA	NA	NA	HGPT
+chr1:clu_791_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PAB5
+chr1:clu_792_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SEC6
+chr1:clu_793_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SEC6
+chr1:clu_794_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SEC6
+chr1:clu_795_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PTP1
+chr1:clu_796_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PTP1
+chr1:clu_797_NA	Not enough valid samples	NA	NA	NA	NA	TFIIIA
+chr1:clu_798_NA	Success	9.83715954137301	1	9.18271662301587e-06	2.2640146156746e-05	AT1G72250
+chr1:clu_799_NA	Success	10.5635694137137	1	4.29797982220889e-06	1.39684344221789e-05	AT1G72250
+chr1:clu_8_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	BHLH13
+chr1:clu_80_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ATX2
+chr1:clu_800_NA	Not enough valid samples	NA	NA	NA	NA	APUM23
+chr1:clu_801_NA	Not enough valid samples	NA	NA	NA	NA	ALAAT2
+chr1:clu_802_NA	Not enough valid samples	NA	NA	NA	NA	ALAAT2
+chr1:clu_803_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ERF073
+chr1:clu_804_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	RPSAA
+chr1:clu_805_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G72410
+chr1:clu_806_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G72416
+chr1:clu_807_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G72416
+chr1:clu_808_NA	Not enough valid samples	NA	NA	NA	NA	AT1G72416
+chr1:clu_809_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MORF7
+chr1:clu_81_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ARI5
+chr1:clu_810_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G72550
+chr1:clu_811_NA	Not enough valid samples	NA	NA	NA	NA	AT1G72640
+chr1:clu_812_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	TRFL6
+chr1:clu_813_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	DRG2
+chr1:clu_814_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G72740
+chr1:clu_815_NA	Not enough valid samples	NA	NA	NA	NA	AT1G72890
+chr1:clu_816_NA	Success	0.262468675842712	1	0.468743113668784	0.572908250039625	TIR
+chr1:clu_817_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	BGAL17
+chr1:clu_818_NA	Not enough valid samples	NA	NA	NA	NA	AT1G73090
+chr1:clu_819_NA	Not enough valid samples	NA	NA	NA	NA	AT1G73170
+chr1:clu_82_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G05960
+chr1:clu_820_NA	Success	9.80814696001639	1	9.46584918868968e-06	2.29426514234343e-05	AT1G73210
+chr1:clu_821_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G73350
+chr1:clu_822_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G73350
+chr1:clu_823_NA	Success	1.04756720328807	1	0.147768716135296	0.209217093142053	AT1G73390
+chr1:clu_824_NA	Not enough valid samples	NA	NA	NA	NA	AT1G73470
+chr1:clu_825_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G73490
+chr1:clu_826_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G73650
+chr1:clu_827_NA	Success	11.6802457645557	1	1.34308945676026e-06	6.21960815487762e-06	DOX2
+chr1:clu_828_NA	Not enough valid samples	NA	NA	NA	NA	BEE3
+chr1:clu_829_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G73920
+chr1:clu_83_NA	Not enough valid samples	NA	NA	NA	NA	GLX2-4
+chr1:clu_830_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G74130
+chr1:clu_831_NA	Success	0.00120036969489945	1	0.960921415257755	0.96768846747788	AT1G74140
+chr1:clu_832_NA	Success	0.687394033196824	3	0.711455043027378	0.779602077800115	AT1G74140
+chr1:clu_833_NA	Not enough valid samples	NA	NA	NA	NA	AT1G74330
+chr1:clu_834_NA	Success	9.92300499316359	1	8.39377525090504e-06	2.16272047005301e-05	NEN3
+chr1:clu_835_NA	Not enough valid samples	NA	NA	NA	NA	AT1G74530
+chr1:clu_836_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	NRP1
+chr1:clu_837_NA	Not enough valid samples	NA	NA	NA	NA	NRP1
+chr1:clu_838_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ALDH10A8
+chr1:clu_839_NA	Not enough valid samples	NA	NA	NA	NA	KAS2
+chr1:clu_84_NA	Success	16.6948793530685	2	5.61702065562048e-08	4.49545581099684e-07	MEE5
+chr1:clu_840_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G75060
+chr1:clu_841_NA	Success	16.7405322617957	1	7.19611798180538e-09	1.10020926401026e-07	AT1G75170
+chr1:clu_842_NA	Not enough valid samples	NA	NA	NA	NA	AT1G75180
+chr1:clu_843_NA	Not enough valid samples	NA	NA	NA	NA	AT1G75180
+chr1:clu_844_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	CG1
+chr1:clu_845_NA	Not enough valid samples	NA	NA	NA	NA	CG1
+chr1:clu_846_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SFH5
+chr1:clu_847_NA	Not enough valid samples	NA	NA	NA	NA	BBD1
+chr1:clu_848_NA	Success	12.0127553397486	1	9.50677257519252e-07	4.85524456518761e-06	CKX5
+chr1:clu_849_NA	Not enough valid samples	NA	NA	NA	NA	AT1G75560
+chr1:clu_85_NA	Success	0.383135932561629	3	0.857516160224549	0.890913340415142	AT1G06500
+chr1:clu_850_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	VHA-C4
+chr1:clu_851_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	EXL1
+chr1:clu_852_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	EXL2
+chr1:clu_853_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G75920
+chr1:clu_854_NA	Success	3.03572425644387	1	0.0137384248519965	0.0225815488946608	AT1G76140
+chr1:clu_855_NA	Not enough valid samples	NA	NA	NA	NA	AT1G76280
+chr1:clu_856_NA	Not enough valid samples	NA	NA	NA	NA	FRS4
+chr1:clu_857_NA	Not enough valid samples	NA	NA	NA	NA	PUB43
+chr1:clu_858_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	OEP21B
+chr1:clu_859_NA	Success	0.0192962328463295	1	0.844258236783945	0.889521951215675	AT1G76440
+chr1:clu_86_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G06515
+chr1:clu_860_NA	Not enough valid samples	NA	NA	NA	NA	AT1G76480
+chr1:clu_861_NA	Success	9.6355713662882	1	1.13407507478436e-05	2.68054108585395e-05	AT1G76480
+chr1:clu_862_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ARID5
+chr1:clu_863_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ARID5
+chr1:clu_864_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	TULP1
+chr1:clu_865_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	ACR3
+chr1:clu_866_NA	Success	5.64487002995642	1	0.000779365927158488	0.00141973665711674	SKIP
+chr1:clu_867_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	EFS
+chr1:clu_868_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MEI1
+chr1:clu_869_NA	Not enough valid samples	NA	NA	NA	NA	AT1G77350
+chr1:clu_87_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G06650
+chr1:clu_870_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G77765
+chr1:clu_871_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	B3GALT7
+chr1:clu_872_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	B3GALT7
+chr1:clu_873_NA	Success	10.6821712369039	2	2.29504907807574e-05	4.89838833081838e-05	AT1G77890
+chr1:clu_874_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G78150
+chr1:clu_875_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SPS1
+chr1:clu_876_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SHB
+chr1:clu_877_NA	Success	18.3264141774345	2	1.09885262419736e-08	1.36639935008889e-07	BBX22
+chr1:clu_878_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G78620
+chr1:clu_879_NA	Success	9.48527010392975	1	1.32752386957853e-05	3.01326846586872e-05	GGH2
+chr1:clu_88_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PSBP1
+chr1:clu_880_NA	Not enough valid samples	NA	NA	NA	NA	TBL42
+chr1:clu_881_NA	Success	9.52463212207347	1	1.27386878587239e-05	2.93811671580245e-05	AT1G78780
+chr1:clu_882_NA	Success	10.0698659491602	1	7.19856517789459e-06	1.92410246811014e-05	AT1G78780
+chr1:clu_883_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G78790
+chr1:clu_884_NA	Not enough valid samples	NA	NA	NA	NA	AT1G78810
+chr1:clu_885_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	UBC35
+chr1:clu_886_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G78915
+chr1:clu_887_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	HAC1
+chr1:clu_888_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	BRG2
+chr1:clu_889_NA	Not enough valid samples	NA	NA	NA	NA	PAB2
+chr1:clu_89_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PTI11
+chr1:clu_890_NA	Not enough valid samples	NA	NA	NA	NA	STR1
+chr1:clu_891_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	NUA
+chr1:clu_892_NA	Success	11.7290225038037	1	1.27667725867578e-06	6.08549493302124e-06	AT1G79480
+chr1:clu_893_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	MTP9
+chr1:clu_894_NA	Success	19.4480159697451	2	3.57959572193224e-09	7.31260268909016e-08	SMB
+chr1:clu_895_NA	Success	0.24596677272234	1	0.483066059641142	0.585410563802401	AT1G79630
+chr1:clu_896_NA	Success	10.0988569006878	1	6.98363487982441e-06	1.90220911964741e-05	RAD23B
+chr1:clu_897_NA	Success	8.35287058442708	1	4.36487067359759e-05	9.04603632354283e-05	RAD23B
+chr1:clu_898_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G79700
+chr1:clu_899_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	PEX2
+chr1:clu_9_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G01320
+chr1:clu_90_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G06750
+chr1:clu_900_NA	Success	18.2272557832878	2	1.21339833053084e-08	1.44596634388259e-07	SGB1
+chr1:clu_901_NA	Not enough valid samples	NA	NA	NA	NA	GC5
+chr1:clu_902_NA	Success	11.1748773350934	1	2.2724207933643e-06	9.30110378879344e-06	GC5
+chr1:clu_903_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	LA2
+chr1:clu_904_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	LA2
+chr1:clu_905_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G79910
+chr1:clu_906_NA	Not enough valid samples	NA	NA	NA	NA	HSP70-14
+chr1:clu_907_NA	Not enough valid samples	NA	NA	NA	NA	ERDJ2A
+chr1:clu_908_NA	Not enough valid samples	NA	NA	NA	NA	AT1G79990
+chr1:clu_909_NA	Success	10.5453860035817	1	4.38032481324365e-06	1.40760999616594e-05	AT1G80040
+chr1:clu_91_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	GAUT6
+chr1:clu_910_NA	Success	0.0068879061669378	1	0.906566534108892	0.925992959839797	AT1G80040
+chr1:clu_911_NA	Not enough valid samples	NA	NA	NA	NA	AHP6
+chr1:clu_912_NA	Success	1.29373822672369	2	0.274243679461362	0.364807871283486	PPR596
+chr1:clu_913_NA	Success	0.0426620450215012	1	0.770207967968721	0.828118341500204	GLYK
+chr1:clu_914_NA	Success	0.0884800936619285	1	0.673998728205747	0.750053059404061	GLYK
+chr1:clu_915_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	XRCC1
+chr1:clu_916_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	XRCC1
+chr1:clu_917_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	XRCC1
+chr1:clu_918_NA	Not enough valid samples	NA	NA	NA	NA	TPR1
+chr1:clu_919_NA	Not enough valid samples	NA	NA	NA	NA	TPR1
+chr1:clu_92_NA	Success	0.421684424736284	1	0.358435052328331	0.455610777626234	AT1G06960
+chr1:clu_920_NA	Success	8.8415087314752	1	2.60945968113955e-05	5.48754021180816e-05	AHA9
+chr1:clu_921_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G80970
+chr1:clu_93_NA	Success	0.913287328647812	1	0.176532666226411	0.246284597759773	AT1G06960
+chr1:clu_94_NA	Success	24.0633776529794	3	2.00124106379488e-10	6.35949938050372e-09	AT1G07170
+chr1:clu_95_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	AT1G07200
+chr1:clu_96_NA	Not enough valid samples	NA	NA	NA	NA	AT1G07280
+chr1:clu_97_NA	Not enough valid samples	NA	NA	NA	NA	RPL4
+chr1:clu_98_NA	<=1 sample with coverage>min_coverage	NA	NA	NA	NA	SR45A
+chr1:clu_99_NA	Not enough valid samples	NA	NA	NA	NA	APK1A

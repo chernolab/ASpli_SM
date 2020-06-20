@@ -1,0 +1,32 @@
+2019-10-01 21:26:43,680 (PID:18712) - INFO - Majiq deltapsi v2.1-c3da3ce
+2019-10-01 21:26:43,680 (PID:18712) - INFO - Command: /home/ariel/env/bin/majiq deltapsi -grp1 01_build/A1.s.majiq 01_build/A2.s.majiq 01_build/A3.s.majiq -grp2 01_build/B1.s.majiq 01_build/B2.s.majiq 01_build/B3.s.majiq -j 8 -o 04_dpsi -n A B
+2019-10-01 21:26:43,680 (PID:18712) - INFO - GROUP1: ['01_build/A1.s.majiq', '01_build/A2.s.majiq', '01_build/A3.s.majiq']
+2019-10-01 21:26:43,680 (PID:18712) - INFO - GROUP2: ['01_build/B1.s.majiq', '01_build/B2.s.majiq', '01_build/B3.s.majiq']
+2019-10-01 21:26:43,680 (PID:18712) - INFO - Parsing file: 01_build/A1.s.majiq
+2019-10-01 21:26:43,723 (PID:18712) - INFO - Parsing file: 01_build/A2.s.majiq
+2019-10-01 21:26:43,760 (PID:18712) - INFO - Parsing file: 01_build/A3.s.majiq
+2019-10-01 21:26:43,804 (PID:18712) - INFO - Group A: 877 LSVs
+2019-10-01 21:26:43,804 (PID:18712) - INFO - Parsing file: 01_build/B1.s.majiq
+2019-10-01 21:26:43,838 (PID:18712) - INFO - Parsing file: 01_build/B2.s.majiq
+2019-10-01 21:26:43,874 (PID:18712) - INFO - Parsing file: 01_build/B3.s.majiq
+2019-10-01 21:26:43,917 (PID:18712) - INFO - Group B: 877 LSVs
+2019-10-01 21:26:43,918 (PID:18712) - INFO - Number quantifiable LSVs: 704
+2019-10-01 21:26:43,918 (PID:18712) - INFO - Calculating prior matrix...
+2019-10-01 21:26:44,293 (PID:18712) - INFO - Computation done, saving results....
+2019-10-01 21:26:46,095 (PID:18712) - INFO - DeltaPSI calculation for A_B ended successfully! Result can be found at 04_dpsi
+2019-10-01 21:29:47,308 (PID:39590) - INFO - Majiq deltapsi v2.1-c3da3ce
+2019-10-01 21:29:47,308 (PID:39590) - INFO - Command: /home/ariel/env/bin/majiq deltapsi -grp1 01_build/A1.s.majiq 01_build/A2.s.majiq 01_build/A3.s.majiq -grp2 01_build/B1.s.majiq 01_build/B2.s.majiq 01_build/B3.s.majiq -j 8 -o 04_dpsi -n A B
+2019-10-01 21:29:47,309 (PID:39590) - INFO - GROUP1: ['01_build/A1.s.majiq', '01_build/A2.s.majiq', '01_build/A3.s.majiq']
+2019-10-01 21:29:47,309 (PID:39590) - INFO - GROUP2: ['01_build/B1.s.majiq', '01_build/B2.s.majiq', '01_build/B3.s.majiq']
+2019-10-01 21:29:47,309 (PID:39590) - INFO - Parsing file: 01_build/A1.s.majiq
+2019-10-01 21:29:47,362 (PID:39590) - INFO - Parsing file: 01_build/A2.s.majiq
+2019-10-01 21:29:47,400 (PID:39590) - INFO - Parsing file: 01_build/A3.s.majiq
+2019-10-01 21:29:47,447 (PID:39590) - INFO - Group A: 877 LSVs
+2019-10-01 21:29:47,447 (PID:39590) - INFO - Parsing file: 01_build/B1.s.majiq
+2019-10-01 21:29:47,482 (PID:39590) - INFO - Parsing file: 01_build/B2.s.majiq
+2019-10-01 21:29:47,519 (PID:39590) - INFO - Parsing file: 01_build/B3.s.majiq
+2019-10-01 21:29:47,565 (PID:39590) - INFO - Group B: 877 LSVs
+2019-10-01 21:29:47,565 (PID:39590) - INFO - Number quantifiable LSVs: 704
+2019-10-01 21:29:47,565 (PID:39590) - INFO - Calculating prior matrix...
+2019-10-01 21:29:47,945 (PID:39590) - INFO - Computation done, saving results....
+2019-10-01 21:29:49,769 (PID:39590) - INFO - DeltaPSI calculation for A_B ended successfully! Result can be found at 04_dpsi
