@@ -16,6 +16,6 @@ in the ASpliRun folder (new results will overwrite pre-calculated ones)
  
 - `run-comparison.R`: Script to produce figures and tables of the reproducibility 
 analysis presented in the paper from ASpli2 (*ASpliRun* folder) and 
-results from other algorithms (*others* folder).
+other algorithms (*others* folder) pre-computed results.
 
 
