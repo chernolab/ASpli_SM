@@ -1,0 +1,16 @@
+2019-08-30 20:38:35,101 (PID:36572) - INFO - Majiq deltapsi v2.1-c3da3ce
+2019-08-30 20:38:35,101 (PID:36572) - INFO - Command: /home/ariel/env/bin/majiq deltapsi -grp1 01_build/Col0_1.star.majiq 01_build/Col0_2.star.majiq 01_build/Col0_3.star.majiq -grp2 01_build/Prmt5_1.star.majiq 01_build/Prmt5_2.star.majiq 01_build/Prmt5_3.star.majiq -j 32 -o 04_dpsi -n col0 prmt5
+2019-08-30 20:38:35,101 (PID:36572) - INFO - GROUP1: ['01_build/Col0_1.star.majiq', '01_build/Col0_2.star.majiq', '01_build/Col0_3.star.majiq']
+2019-08-30 20:38:35,101 (PID:36572) - INFO - GROUP2: ['01_build/Prmt5_1.star.majiq', '01_build/Prmt5_2.star.majiq', '01_build/Prmt5_3.star.majiq']
+2019-08-30 20:38:35,101 (PID:36572) - INFO - Parsing file: 01_build/Col0_1.star.majiq
+2019-08-30 20:38:35,349 (PID:36572) - INFO - Parsing file: 01_build/Col0_2.star.majiq
+2019-08-30 20:38:35,638 (PID:36572) - INFO - Parsing file: 01_build/Col0_3.star.majiq
+2019-08-30 20:38:35,995 (PID:36572) - INFO - Group col0: 10463 LSVs
+2019-08-30 20:38:35,996 (PID:36572) - INFO - Parsing file: 01_build/Prmt5_1.star.majiq
+2019-08-30 20:38:36,253 (PID:36572) - INFO - Parsing file: 01_build/Prmt5_2.star.majiq
+2019-08-30 20:38:36,516 (PID:36572) - INFO - Parsing file: 01_build/Prmt5_3.star.majiq
+2019-08-30 20:38:36,901 (PID:36572) - INFO - Group prmt5: 10463 LSVs
+2019-08-30 20:38:36,903 (PID:36572) - INFO - Number quantifiable LSVs: 10184
+2019-08-30 20:38:36,904 (PID:36572) - INFO - Calculating prior matrix...
+2019-08-30 20:39:35,309 (PID:36572) - INFO - Computation done, saving results....
+2019-08-30 20:39:57,608 (PID:36572) - INFO - DeltaPSI calculation for col0_prmt5 ended successfully! Result can be found at 04_dpsi

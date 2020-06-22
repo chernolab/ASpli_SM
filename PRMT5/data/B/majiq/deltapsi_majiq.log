@@ -1,0 +1,21 @@
+2019-08-31 01:57:19,466 (PID:14088) - INFO - Majiq deltapsi v2.1-c3da3ce
+2019-08-31 01:57:19,467 (PID:14088) - INFO - Command: /home/ariel/env/bin/majiq deltapsi -grp1 01_build/Col_1.star.majiq 01_build/Col_3.star.majiq 01_build/Col_4.star.majiq -grp2 01_build/prmt5_Col_11.star.majiq 01_build/prmt5_Col_12.star.majiq 01_build/prmt5_Col_9.star.majiq -j 8 -o 04_dpsi -n col0 prmt5
+2019-08-31 01:57:19,467 (PID:14088) - INFO - GROUP1: ['01_build/Col_1.star.majiq', '01_build/Col_3.star.majiq', '01_build/Col_4.star.majiq']
+2019-08-31 01:57:19,467 (PID:14088) - INFO - GROUP2: ['01_build/prmt5_Col_11.star.majiq', '01_build/prmt5_Col_12.star.majiq', '01_build/prmt5_Col_9.star.majiq']
+2019-08-31 01:57:19,467 (PID:14088) - ERROR - File 01_build/Col_1.star.majiq does not exist. Exiting execution
+2019-08-31 01:59:04,611 (PID:23041) - INFO - Majiq deltapsi v2.1-c3da3ce
+2019-08-31 01:59:04,611 (PID:23041) - INFO - Command: /home/ariel/env/bin/majiq deltapsi -grp1 01_build/Col_1.star.majiq 01_build/Col_3.star.majiq 01_build/Col_4.star.majiq -grp2 01_build/prmt5_Col_11.star.majiq 01_build/prmt5_Col_12.star.majiq 01_build/prmt5_Col_9.star.majiq -j 8 -o 04_dpsi -n col0 prmt5
+2019-08-31 01:59:04,611 (PID:23041) - INFO - GROUP1: ['01_build/Col_1.star.majiq', '01_build/Col_3.star.majiq', '01_build/Col_4.star.majiq']
+2019-08-31 01:59:04,611 (PID:23041) - INFO - GROUP2: ['01_build/prmt5_Col_11.star.majiq', '01_build/prmt5_Col_12.star.majiq', '01_build/prmt5_Col_9.star.majiq']
+2019-08-31 01:59:04,611 (PID:23041) - INFO - Parsing file: 01_build/Col_1.star.majiq
+2019-08-31 01:59:04,939 (PID:23041) - INFO - Parsing file: 01_build/Col_3.star.majiq
+2019-08-31 01:59:05,327 (PID:23041) - INFO - Parsing file: 01_build/Col_4.star.majiq
+2019-08-31 01:59:05,850 (PID:23041) - INFO - Group col0: 15445 LSVs
+2019-08-31 01:59:05,850 (PID:23041) - INFO - Parsing file: 01_build/prmt5_Col_11.star.majiq
+2019-08-31 01:59:06,179 (PID:23041) - INFO - Parsing file: 01_build/prmt5_Col_12.star.majiq
+2019-08-31 01:59:06,587 (PID:23041) - INFO - Parsing file: 01_build/prmt5_Col_9.star.majiq
+2019-08-31 01:59:07,103 (PID:23041) - INFO - Group prmt5: 15445 LSVs
+2019-08-31 01:59:07,107 (PID:23041) - INFO - Number quantifiable LSVs: 15171
+2019-08-31 01:59:07,107 (PID:23041) - INFO - Calculating prior matrix...
+2019-08-31 02:01:30,644 (PID:23041) - INFO - Computation done, saving results....
+2019-08-31 02:02:04,152 (PID:23041) - INFO - DeltaPSI calculation for col0_prmt5 ended successfully! Result can be found at 04_dpsi
