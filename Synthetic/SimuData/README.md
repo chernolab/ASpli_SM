@@ -1,4 +1,4 @@
-# Supplementary material for ASpli2 paper
+# Supplementary material for ASpli paper
 
 - `simulation.xlsx`: spreadsheet with information about the simulation (e.g. mean mRNA numbers per gene, 
 simulated expression fold changes, variant profiles, etc) included in `AT1_ES-IR-Alt3ss-Alt5ss.Rdata`.

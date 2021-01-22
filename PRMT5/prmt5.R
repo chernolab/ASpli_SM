@@ -748,7 +748,7 @@ signals(reportes$prmt5_interaction$is)
     agreed <- pcr$locus%in%lRNAseq2[[i]] 
     nOK<-c(nOK,sum(agreed))
   }
-  names(nOK)<-c("ASpli2.AB","ASpli2.A","ASpli2.B","LeafCutter.A","LeafCutter.B","MAJIQ.A","MAJIQ.B","rMATS.A","rMATS.B")
+  names(nOK)<-c("ASpli.AB","ASpli.A","ASpli.B","LeafCutter.A","LeafCutter.B","MAJIQ.A","MAJIQ.B","rMATS.A","rMATS.B")
   print(nOK)
   
   
