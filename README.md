@@ -1,4 +1,4 @@
-# Supplementary material for ASpli2 paper
+# Supplementary material for ASpli paper
 
 ## Authors
 E. Mancini, A. Rabinovich, J. Iserte, M. Yanovsky, A. Chernomoretz
@@ -8,5 +8,5 @@ to reproduce paper results regarding the analysis of the **Synthetic** and
 **PRMT5** datasets. 
 
 Please note that for the Synthetic dataset there is a BAM folder of 292Mb to 
-run ASpli2 from scratch. You can use much light-weighted pre-computed results if
+run ASpli from scratch. You can use much light-weighted pre-computed results if
 you just want to reproduce the paper figures.
